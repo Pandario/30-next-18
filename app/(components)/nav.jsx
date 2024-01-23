@@ -58,7 +58,7 @@ function Nav() {
                       <a href="https://github.com/Pandario">
                         <FaGithub className="text-white hover:text-indigo-700" />
                       </a>
-                      <Link href="https://github.com/yourusername" target="_blank" className="text-white hover:text-indigo-700">GitHub</Link>
+                      <Link href="https://github.com/Pandario" target="_blank" className="text-white hover:text-indigo-700">GitHub</Link>
                     </div>
 
                     <div className="flex items-center space-x-3">
